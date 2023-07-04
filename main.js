@@ -1,1 +1,1 @@
-alert('Git is magic')
+alert('Git is very magic')
