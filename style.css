@@ -5,3 +5,14 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.2rem;
 }
+
+.page {
+    display: flex;
+    flex:1;
+}
+main {
+    width: 70%;
+}
+.sidebar {
+    width: 30%;
+}
